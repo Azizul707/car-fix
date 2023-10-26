@@ -1,0 +1,39 @@
+
+[
+  {
+    "product_name": "Car Engine Plug",
+    "price": 49.99,
+    "description": "Keep your engine running smoothly with our professional oil change service. We use high-quality oil and replace the oil filter for optimal engine performance.",
+    "image_url": "https://i.ibb.co/KFqRGsK/1.png"
+  },
+  {
+    "product_name": "Car Air Filter",
+    "price": 89.99,
+    "description": "Ensure your safety on the road by replacing worn-out brake pads. Our experts will install new, reliable brake pads for improved stopping power.",
+    "image_url": "https://i.ibb.co/RPRsQNn/2.png"
+  },
+  {
+    "product_name": "Cools Led Light",
+    "price": 39.99,
+    "description": "Extend the lifespan of your tires and enhance vehicle stability with our tire rotation and balancing service. Enjoy a smoother ride and even tire wear.",
+    "image_url": "https://i.ibb.co/njtQFLV/3.png"
+  },
+  {
+    "product_name": "Cools Led Light",
+    "price": 29.99,
+    "description": "Identify and address engine issues early with our comprehensive engine diagnostic check. Our advanced tools will pinpoint problems for a reliable diagnosis.",
+    "image_url": "https://i.ibb.co/RTR4GN5/4.png"
+  },
+  {
+    "product_name": "Cools Led Light",
+    "price": 69.99,
+    "description": "Stay cool and comfortable during your drives with our air conditioning service. We'll inspect, clean, and recharge your A/C system for optimal performance.",
+    "image_url": "https://i.ibb.co/5vCzcHb/5.png"
+  },
+  {
+    "product_name": "Cools Led Light",
+    "price": 149.99,
+    "description": "Give your car a fresh, new look with our full car detailing service. We clean, polish, and protect your vehicle inside and out, leaving it spotless and shining.",
+    "image_url": "https://i.ibb.co/W0j6Fsv/6.png"
+  }
+]
