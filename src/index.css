@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.header-btn{
+    border-bottom: 50px solid #e92d03;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+    width:13rem;
+}
